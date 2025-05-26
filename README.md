@@ -31,7 +31,7 @@ Se consideraron múltiples factores:
 ![Categorías y Tiendas](img/CategoriasyTiendas.png)
 
 ### Calificación promedio por tienda
-![Calificación Promedio](img/CalificacionProemdio.png)
+![Calificación Promedio](img/CalificacionPromedio.png)
 
 ### Productos más y menos vendidos
 ![Productos Vendidos](img/ProductosVendidos.png)
