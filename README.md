@@ -47,7 +47,7 @@ La Tienda 1 depende de sus 3 productos estrella, los Microondas, TV y Armarios. 
 ### Distribución del costo de envío (Boxplot)
 Los costos de envío por tienda no varian mucho pero la Tienda 3 y Tienda 4 tienen costos de envío más estables y bajos. Tienda 4 muestra mayor número de valores atípicos y costos elevados, lo cual puede afectar la experiencia del cliente. Sería importante analizar las ubicaciones de las tiendas y las paqueterías que utilizan para enviar sus productos a menores precios.
 
-![Boxplot Promedios](img/BoxplotPromedios.png)
+![Boxplot Promedios](img/boxplotpromedios.png)
 
 ### Relación entre precio y costo de envío
 En las 4 tiendas presentamos una relación postiva que nos indica que a mayor precio del producto, mayor costo del envío, aunque la mayoría de compras se centra en la parte de bajos precios y bajos costos de envio
